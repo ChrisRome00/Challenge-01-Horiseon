@@ -9,7 +9,7 @@ the website looks at all, but only making it more semantic and proper for those 
 ![image](https://github.com/ChrisRome00/Challenge-01-Horiseon/assets/113261423/7f6ca269-5352-4adf-9722-1f2a5bd33966)
 
 ## Link To Website
-https://chrisrome00.github.io/Challenge-01-Horiseon/#search-engine-optimization
+https://chrisrome00.github.io/Challenge-01-Horiseon
 
 ## Starter Code
 https://github.com/coding-boot-camp/urban-octo-telegram
